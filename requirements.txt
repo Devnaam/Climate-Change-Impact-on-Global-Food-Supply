@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+jupyter
+ipykernel
+requests
+python-dotenv
+# optional (install later if needed):
+# geopandas
+# folium
