@@ -17,7 +17,6 @@ Analyze how temperature, precipitation, and CO₂ relate to crop yields across c
 3. Add datasets to `data/raw/`.
 
 
-# Climate Change Impact on Global Food Supply
 
 ## 1. Project Overview
 
