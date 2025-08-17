@@ -7,6 +7,7 @@ jupyter
 ipykernel
 requests
 python-dotenv
+seaborn
 # optional (install later if needed):
 # geopandas
 # folium
